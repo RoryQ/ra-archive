@@ -1,0 +1,36 @@
+name: Monthly RA Archive Update
+
+on:
+  schedule:
+    - cron: '0 0 1 * *' # Run at 00:00 on day 1 of every month
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-archive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run incremental update
+        run: node incremental_update.js
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore: monthly archive update"
+          title: "Monthly Archive Update"
+          body: "Automated incremental update of RA Best Of lists and Reviews."
+          branch: auto-update-archive
+          delete-branch: true
+          base: main
