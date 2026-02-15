@@ -29,7 +29,7 @@ bestOfData.forEach(article => {
 reviewsData.forEach(review => {
     combined.push({
         t: review.title,
-        d: review.blurb || "",
+        d: review.content || review.blurb || "",
         u: `https://ra.co${review.contentUrl}`,
         y: getYear(review.date),
         l: "",

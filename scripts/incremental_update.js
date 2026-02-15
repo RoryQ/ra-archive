@@ -27,21 +27,61 @@ async function scrapeFeature(url, title, date) {
             const c$ = cheerio.load(html);
             // EOY
             c$('.eoy__section').each((i, el) => {
-                addItem({ type: 'EOY Item', artist: c$(el).find('.eoy__artist').text().trim(), title: c$(el).find('.eoy__track').text().trim(), label: c$(el).find('.eoy__label').text().trim(), description: c$(el).find('.eoy__text').text().trim(), source });
+                const description = c$(el).find('.eoy__text').first().text().trim();
+                addItem({ 
+                    type: 'EOY Item', 
+                    artist: c$(el).find('.eoy__artist').first().text().trim(), 
+                    title: c$(el).find('.eoy__track').first().text().trim(), 
+                    label: c$(el).find('.eoy__label').first().text().trim(), 
+                    description, 
+                    source 
+                });
             });
             // BM 2025
-            c$('[class*="bm__entry-wrapper"], [class*="bm__section"]').each((i, el) => {
-                addItem({ type: 'Best Music Item', artist: c$(el).find('[class*="artist"], [class*="label"]').first().text().trim(), title: c$(el).find('[class*="title"]').text().trim(), label: c$(el).find('[class*="label"]').last().text().trim(), description: c$(el).find('[class*="text"]').text().trim(), source });
+            c$('.bm__entry-wrapper').each((i, el) => {
+                const artist = c$(el).find('[class*="artist"]').first().text().trim();
+                const title = c$(el).find('[class*="entry-title"]').first().text().trim();
+                const label = c$(el).find('[class*="label"]').first().text().trim();
+                const description = c$(el).find('.bm__entry-text').first().text().trim();
+                if (artist || title) {
+                    addItem({ type: 'Best Music Item', artist, title, label, description, source });
+                }
             });
-            // Poll
+            // Poll / Generic List
             c$('.poll li').each((i, el) => {
-                const h2 = c$(el).find('h2').text().trim();
-                const h4 = c$(el).find('h4').text().trim();
-                if (h2) addItem({ type: 'Poll Item', text: h2, label: h4, source });
+                const h2 = c$(el).find('h2').first();
+                const h3 = c$(el).find('h3').first();
+                const title = (h2.text() || h3.text()).trim();
+                
+                if (title) {
+                    // Try to find description in a sibling or specific div instead of just taking all text
+                    let description = c$(el).find('div').not('.f36').first().text().trim();
+                    if (!description) {
+                        description = c$(el).text().replace(h2.text(), '').replace(h3.text(), '').replace(c$(el).find('h4').text(), '').trim();
+                    }
+                    addItem({ type: 'List Item', text: title, label: c$(el).find('h4').first().text().trim(), description, source });
+                }
             });
         };
 
         await parseContent(feature.content, url);
+
+        // Handle Fallback for articles that are just headings and paragraphs
+        if (items.length < 5) {
+            const c$ = cheerio.load(feature.content);
+            c$('h2, h3').each((i, el) => {
+                const title = c$(el).text().trim();
+                if (title && title.length < 200 && !title.toLowerCase().includes('resident advisor')) {
+                    let descParts = [];
+                    let curr = c$(el).next();
+                    while (curr.length && !curr.is('h2, h3')) {
+                        descParts.push(curr.text().trim());
+                        curr = curr.next();
+                    }
+                    addItem({ type: 'Article Section', text: title, description: descParts.join('\n\n'), source: url });
+                }
+            });
+        }
 
         // Handle Lazy Loading
         const initial$ = cheerio.load(feature.content);
@@ -102,7 +142,7 @@ async function updateReviews() {
 
     const query = `query GetReviews($page: Int, $filters: [FilterInput]) {
         listing(indices: [REVIEW], page: $page, pageSize: 20, filters: $filters, sortField: REVIEWDATE, sortOrder: DESCENDING) {
-            data { ... on Review { id title date contentUrl blurb recommended } }
+            data { ... on Review { id title date contentUrl blurb recommended content } }
         }
     }`;
 

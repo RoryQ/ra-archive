@@ -44,7 +44,7 @@ reviewsData.forEach(review => {
         p: [
             "", 
             review.title,
-            review.blurb || "",
+            review.content || review.blurb || "",
             review.contentUrl.replace('https://ra.co', ''),
             dateObj.getFullYear(),
             -1,
