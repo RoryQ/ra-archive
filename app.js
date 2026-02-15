@@ -15,6 +15,9 @@ async function init() {
         const packed = await response.json();
         
         const labels = packed.l;
+        const types = packed.t;
+        const platforms = packed.p;
+
         rawData = packed.i.map(item => ({
             artist: item[0],
             title: item[1],
@@ -22,14 +25,15 @@ async function init() {
             url: 'https://ra.co' + item[3],
             year: item[4],
             label: item[5] === -1 ? "" : labels[item[5]],
-            type: item[6] === 1 ? 'review' : 'list',
-            recommended: item[7] === 1
+            releaseType: item[6] === -1 ? "" : types[item[6]],
+            recommended: item[7] === 1,
+            links: item[8].map(l => ({ platform: platforms[l[0]], url: l[1] }))
         }));
         
         index = new FlexSearch.Document({
             document: {
                 id: "id",
-                index: ["title", "artist", "desc", "label", "year"],
+                index: ["title", "artist", "desc", "label", "year", "releaseType"],
                 store: false
             },
             tokenize: "forward",
@@ -72,6 +76,37 @@ function setupListeners() {
             performSearch(searchInput.value);
         });
     });
+
+    // Delegate player clicks
+    resultsList.addEventListener('click', (e) => {
+        const btn = e.target.closest('.play-btn');
+        if (btn) {
+            const url = btn.dataset.url;
+            const container = btn.closest('.result-item').querySelector('.player-container');
+            const platform = btn.dataset.platform;
+            
+            let height = 120;
+            let finalUrl = url;
+
+            if (platform === 'Spotify') {
+                height = 80;
+            } else if (platform === 'Bandcamp') {
+                // Force size=small for bandcamp
+                finalUrl = url.replace('size=large', 'size=small');
+                height = 120;
+            } else if (platform === 'SoundCloud') {
+                height = 120;
+            }
+
+            container.innerHTML = `<iframe src="${finalUrl}" height="${height}" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>`;
+            container.classList.remove('hidden');
+            btn.remove();
+        }
+    });
+}
+
+function isEmbed(url) {
+    return url.includes('EmbeddedPlayer') || url.includes('open.spotify.com/embed') || url.includes('w.soundcloud.com/player');
 }
 
 function performSearch(query) {
@@ -85,8 +120,8 @@ function performSearch(query) {
         results = Array.from(ids).sort((a, b) => a - b).map(id => rawData[id]);
     }
 
-    if (currentFilter === 'review') results = results.filter(item => item.type === 'review');
-    else if (currentFilter === 'list') results = results.filter(item => item.type === 'list');
+    if (currentFilter === 'review') results = results.filter(item => item.url.includes('/reviews/'));
+    else if (currentFilter === 'list') results = results.filter(item => !item.url.includes('/reviews/'));
     else if (currentFilter === 'recommended') results = results.filter(item => item.recommended);
 
     resultsInfo.innerText = `Found ${results.length} items.`;
@@ -99,18 +134,28 @@ function renderResults(items) {
         return;
     }
 
-    resultsList.innerHTML = items.map(item => `
-        <div class="result-item">
-            <div class="result-meta">
-                <span class="tag">${item.type === 'review' ? 'Review' : 'List Item'}</span>
-                <span>${item.year}</span>
-                ${item.label ? `<span class="tag">${item.label}</span>` : ''}
-                ${item.recommended ? '<span class="recommended">🌟 RA RECOMMENDS</span>' : ''}
+    resultsList.innerHTML = items.map(item => {
+        const embedLink = item.links.find(l => isEmbed(l.url));
+        const otherLinks = item.links.filter(l => !isEmbed(l.url));
+
+        return `
+            <div class="result-item">
+                <div class="result-meta">
+                    <span class="tag">${item.releaseType || 'Article'}</span>
+                    <span>${item.year}</span>
+                    ${item.label ? `<span class="tag">${item.label}</span>` : ''}
+                    ${item.recommended ? '<span class="recommended">🌟 RA RECOMMENDS</span>' : ''}
+                </div>
+                <h2 class="result-title"><a href="${item.url}" target="_blank">${item.artist ? item.artist + ' - ' : ''}${item.title}</a></h2>
+                <div class="result-desc">${item.desc}</div>
+                <div class="result-links">
+                    ${embedLink ? `<button class="link-btn play-btn" data-url="${embedLink.url}" data-platform="${embedLink.platform}">▶ Show ${embedLink.platform} Player</button>` : ''}
+                    ${otherLinks.map(l => `<a href="${l.url}" target="_blank" class="link-btn">${l.platform}</a>`).join('')}
+                </div>
+                <div class="player-container hidden"></div>
             </div>
-            <h2 class="result-title"><a href="${item.url}" target="_blank">${item.artist ? item.artist + ' - ' : ''}${item.title}</a></h2>
-            <div class="result-desc">${item.desc}</div>
-        </div>
-    `).join('');
+        `;
+    }).join('');
 }
 
 init();

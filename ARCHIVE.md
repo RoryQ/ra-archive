@@ -1,7 +1,7 @@
 # Resident Advisor Best Of Lists Archive
 
 Total articles archived: 112
-Total items found: 1950
+Total items found: 1670
 
 ## [Best Music 2025](https://ra.co/features/4425)
 Date: 2025-11-04T17:00:11.000Z
@@ -4445,463 +4445,152 @@ Date: 2021-01-29T09:12:43.000Z
 ## [November's Best Music](https://ra.co/features/3783)
 Date: 2020-12-01T13:45:40.000Z
 
-### Best albums 
-
-### November 2020 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [September's Best Music](https://ra.co/features/3763)
 Date: 2020-09-30T13:00:55.000Z
 
-### Best albums 
-
-### September 2020 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [August's Best Music ](https://ra.co/features/3747)
 Date: 2020-08-28T14:00:27.000Z
 
-### Best albums 
-
-### August 2020 
-
-### Best singles 
-
-### Best mixes 
-
-### May 2020 
+*No structured items found.*
 
 ## [July's Best Music](https://ra.co/features/3728)
 Date: 2020-07-30T15:00:07.000Z
 
-### Best albums 
-
-### July 2020 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [June's Best Music ](https://ra.co/features/3714)
 Date: 2020-06-30T16:00:40.000Z
 
-### Best albums 
-
-### June 2020 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [April's Best Music](https://ra.co/features/3689)
 Date: 2020-04-30T23:00:13.000Z
 
-### Best albums 
-
-### April 2020 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [March's Best Music](https://ra.co/features/3634)
 Date: 2020-03-31T14:00:10.000Z
 
-### Best albums 
-
-### March 2020 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [February's Best Music ](https://ra.co/features/3617)
 Date: 2020-02-28T12:00:18.000Z
 
-### Best albums 
-
-### February 2020 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [January's Best Music ](https://ra.co/features/3603)
 Date: 2020-02-01T00:30:26.000Z
 
-### Best albums 
-
-### January 2020 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [September's Best Music](https://ra.co/features/3530)
 Date: 2019-09-30T12:00:58.000Z
 
-### Jenny Hval The Practice Of Love Sacred Bones Records 
-> This broody synth pop album from the Norwegian artist interrogates what "love" actually means. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### xin Melts Into Love Subtext 
-> A mesmerizing album that finds transcendence in experimental club music. Listen: Bandcamp / Soundcloud
-
-### Iona Fortune Tao Of I Volume 2 Ecstatic 
-> Beautiful ambient inspired by the ancient history of the I Ching, made with a mix of synths and traditional Chinese instruments. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Complete Walkthru Scrolls Numbers 
-> Max McFerren returns as eclectic and quirky as ever, but with a stronger grasp of what he does best: playful beats, fun samples and great melodies. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Klein Lifetime ijn inc. 
-> Klein weaves tangled narratives on this spellbinding album. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### E-Saggila My World My Way Northern Electronics 
-> This burst of breakcore and blazing-fast techno shows the Canadian artist thriving in extremes. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Barker Utility Ostgut Ton 
-> Sam Barker delivers masterful techno full of glistening synths, non-standard rhythms and barely-there drums. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Octo Octa Resonant Body T4T LUV NRG 
-> Bliss conveyed through soaring breakbeats and slamming house from the always-excellent Maya Bouldry-Morrison. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Chris Korda Akoko Ajeji Perlon 
-> A complex process (in which every instrument is played in a different meter) conjures extraordinary rhythms and gorgeous melodies.
-
-### Not Waving & Dark Mark Downwelling Ecstatic 
-> Surging synths, gravelly singing and poetic spoken word from Alessio Natalizia and the grunge icon Mark Lanegan. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Héctor Oaks We Met Under The Strobe Light OAKS 
-> The Herrensauna resident serves up blistering techno EP rooted in '90s techno. Listen: Bandcamp / Soundcloud
-
-### W00dy My Diary W00dy 
-> Footwork, drum & bass, noise and breakcore combine for an exhilarating storm of sound. Listen: Bandcamp / Soundcloud
-
-### Slikback & Hyph11E Slip B SVBKVLT 
-> East Africa meets East Asia on this wild and dynamic EP. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Various 3024 FYE4 3024 
-> Martyn's label expertly mines the middle ground between techno, drum & bass and dub—and serves up an out-of-this-world cut by Parris in the process. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Walton Depth Charge Ilian Tape 
-> Ilian Tape taps a UK beat scientist for three tracks of garage and weightless. Listen: Bandcamp / Soundcloud
-
-### Bergsonist Femme Self-released 
-> A slow-burning techno gem for daring DJs. Listen: Bandcamp
-
-### Rey Sapienz Mushoro Hakuna Kulala 
-> A taste of Congolese dancehall from one of the East African club scene's key artists. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Helena Hauff Living With Ants Return To Disorder 
-> The kind of slamming electro you expect to hear deep into one of Hauff's blistering DJ sets. Listen: Soundcloud
-
-### Ariel Zetina Shell Head Charge 
-> The up-and-coming Chicago producer softens tough house beats with plaintive synth work on a stellar EP. Fans of DJ Sprinkles take note. Listen: Bandcamp / Soundcloud
-
-### Stanislav Tolkachev When I Was A Boy Semantica Records 
-> This stunning techno track is the Ukrainian mastermind's most touching effort in years. Listen: Bandcamp / Soundcloud
-
-### Joe Get Centred Cómeme 
-> Tropical, scattershot and utterly weird—it can only be Joe. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Djrum Hard To Say / Tournesol R&S 
-> Beautiful, ecstatic rave with tempos soaring past 170 BPM. (Thanks to yorjj and Erwacht.) Listen: Bandcamp
-
-### Jorg Kuning BH002 Bakk Heia Records 
-> Crisp sonics and sideways rhythms from a core member of Bakk Heia, a label and regular party at Manchester's White Hotel. (Thanks to DJ Bob in Brooklyn.) Listen: Bandcamp
-
-### Love Letters Cast Off EP The Bunker New York 
-> Made in part with boths arms in casts (hence the title), Maxime Robillard's debut for The Bunker reveals him as one of New York's hidden talents. (Thanks to Zlatko in Chicago.) Listen: Bandcamp
-
-### A Psychic Yes Maze Dream EP Kalahari Oyster Cult 
-> Lush, psychedelic grooves from a new artist on the quirky Dutch label. (Thanks to Oliver Payne in Solihull.) Listen: Bandcamp
+*No structured items found.*
 
 ## [August's Best Music](https://ra.co/features/3512)
 Date: 2019-08-28T12:00:43.000Z
 
-### Best albums 
-
-### August 2019 
-
-### Best singles 
-
-### Best mixes 
-
-### Reader favourites 
+*No structured items found.*
 
 ## [July's Best Music](https://ra.co/features/3482)
 Date: 2019-07-31T08:45:44.000Z
 
-### Best albums 
-
-### July 2019 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [June's Best Music ](https://ra.co/features/3475)
 Date: 2019-06-27T12:00:39.000Z
 
-### Best albums 
-
-### June 2019 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [May's Best Music](https://ra.co/features/3460)
 Date: 2019-05-31T12:30:48.000Z
 
-### Best albums 
-
-### May 2019 
-
-### Best singles 
-
-### Best mixes 
-
-### Music we missed 
+*No structured items found.*
 
 ## [April's Best Music](https://ra.co/features/3444)
 Date: 2019-04-29T12:00:21.000Z
 
-### Best albums 
-
-### April 2019 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [March's Best Music](https://ra.co/features/3435)
 Date: 2019-03-28T10:00:40.000Z
 
-### Best albums 
-
-### March 2019 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [February's Best Music ](https://ra.co/features/3406)
 Date: 2019-02-28T09:30:07.000Z
 
-### Best albums 
-
-### February 2019 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [January's Best Music ](https://ra.co/features/3393)
 Date: 2019-01-31T14:05:24.000Z
 
-### Best albums 
-
-### January 2019 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [November's Best Music](https://ra.co/features/3355)
 Date: 2018-11-29T16:00:04.000Z
 
-### Saloli The Deep End Kranky 
-> Satie-inspired melodies from the Portland synth artist. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### ZULI Terminal UIQ 
-> Ahmed El Ghazoly brings together braindance and Egyptian hip-hop on this striking debut album. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### IL-P-ON ÄÄNET Editions Mego 
-> Ilpo Väisänen's latest album is a tribute to the noise and drone music of Pan Sonic and its late cofounder, Mika Vainio. Listen: Bandcamp / Spotify / Soundcloud
-
-### Georgia Anne-Muldrow Overload Brainfeeder 
-> Muldrow distills decades of musical styles and a lifetime of wisdom into uplifting soul. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Jay Daniel Tala Watusi High 
-> Combining the exploratory feel of jazz with the Detroit producer's beatmaking know-how, Tala contains some of Daniel's strongest work yet. Listen: Apple Music / Spotify / Soundcloud
-
-### Deena Abdelwahed Khonnar InFine Music 
-> Khonnar deftly tackles subjects like sexism, homophobia and Arab identity—and also sounds absolutely killer on the dance floor. Listen: Bandcamp / Apple Music / Spotify
-
-### Yoshinori Hayashi Ambivalence Smalltown Supersound 
-> Hayashi's uniquely psychedelic collages of jazz, hip-hop and house flourish on his first LP. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Demdike Stare Passion Modern Love 
-> Sean Canty and Miles Whittaker pound jungle and garage into smithereens on their most club-ready album. Listen: Apple Music / Spotify / Soundcloud
-
-### Objekt Cocoon Crush PAN 
-> TJ Hertz's latest LP shows him further reimagining what techno can sound like. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Various Kulør 001 Kulør 
-> Buckle up—this compilation from Courtesy's new label takes you on a wild ride through Copenhagen's fast techno scene. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Lapalux ABOVE_BETWEEN_BELOW Brainfeeder 
-> The Brainfeeder artist forgoes rhythm on three touching ambient tracks. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Solid Blake Warp Room Seilscheibenpfeiler 
-> One of Copenhagen's rising stars delivers slamming rhythms and zapping synths made for peak-time sets. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Overlook Public Image UVB-76 
-> A whip-smart fusion of techno and drum & bass that sits defiantly between both worlds. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Cromby Retribution Feel My Bicep 
-> A track that further refines the Irish producer's raw but lush house sound, bolstered by remixes from Shanti Celeste and DeFeKT. Listen: Apple Music / Spotify / Soundcloud
-
-### Gerry Read Preventing Violence Against Ears Accidental Jar 
-> Abstract, funky and touching—it's no surprise Matthew Herbert signed these tunes to his label. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Mor Elian Move Like Atoms Fever AM 
-> Deceptively innovative techno from Mor Elian, who sneaks little surprises into even her most functional tracks. Listen: Bandcamp / Soundcloud
-
-### Justin Cudmore Twisted Love / About To Burst Phonica White 
-> Acid house firing on all cylinders from New York's purveyor of squelch. Listen: Apple Music / Spotify / Soundcloud
-
-### VTSS Self Will Intrepid Skin 
-> The Brutaż affiliate's debut record mines the middle ground between EBM and acid. Listen: Soundcloud
-
-### Bone Head Soft Power Arcola 
-> Experimental club music with a pop sensibility, from a new project by one half of DVA Damas.
-
-### Bonaventure Mentor Planet Mu 
-> Bonaventure delivers tightly woven club tracks on her Planet Mu debut. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Joey Anderson & DJ Qu Neutrino Inimeg Recordings 
-> Two masters of modern US house return with a cosmic EP to dazzle dance floors. Listen: Soundcloud
-
-### Shelley Parker Red Cotton Hessle Audio 
-> A new face appears on Hessle Audio with restless dance music that feels outré even for this label. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
+*No structured items found.*
 
 ## [October's Best Music](https://ra.co/features/3347)
 Date: 2018-10-31T12:00:13.000Z
 
-### Best albums 
-
-### October 2018 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [September's Best Music](https://ra.co/features/3333)
 Date: 2018-09-28T10:00:43.000Z
 
-### Best albums 
-
-### September 2018 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [August's Best Music](https://ra.co/features/3313)
 Date: 2018-08-31T12:00:00.000Z
 
-### Best albums 
-
-### August 2018 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [July's Best Music](https://ra.co/features/3294)
 Date: 2018-07-31T11:00:50.000Z
 
-### Best albums 
-
-### July 2018 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [June's Best Music](https://ra.co/features/3260)
 Date: 2018-06-29T10:30:44.000Z
 
-### Best albums 
-
-### June 2018 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [May's Best Music](https://ra.co/features/3236)
 Date: 2018-05-31T15:00:40.000Z
 
-### Best albums 
-
-### May 2018 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [April's Best Music ](https://ra.co/features/3204)
 Date: 2018-04-30T12:10:21.000Z
 
-### Best albums 
-
-### April 2018 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [March's Best Music](https://ra.co/features/3191)
 Date: 2018-03-30T16:17:51.000Z
 
-### Best albums 
-
-### March 2018 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [February's Best Music](https://ra.co/features/3167)
 Date: 2018-02-27T11:03:36.000Z
 
-### Best albums 
-
-### February 2018 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [January's Best Music](https://ra.co/features/3145)
 Date: 2018-01-31T12:30:23.000Z
 
-### Best albums 
-
-### January 2018 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [November's Best Music](https://ra.co/features/3041)
 Date: 2017-11-30T12:35:48.000Z
 
-### Best albums 
-
-### Best singles 
-
-### November 2017 
-
-### Best mixes 
+*No structured items found.*
 
 ## [September's best music](https://ra.co/features/3039)
 Date: 2017-09-30T12:23:11.000Z
@@ -4911,57 +4600,27 @@ Date: 2017-09-30T12:23:11.000Z
 ## [July's best music](https://ra.co/features/3037)
 Date: 2017-07-31T15:00:41.000Z
 
-### Best albums 
-
-### July 2017 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [June's best music](https://ra.co/features/3010)
 Date: 2017-06-30T13:00:54.000Z
 
-### Best albums 
-
-### June 2017 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [May's best music](https://ra.co/features/2995)
 Date: 2017-05-31T15:00:52.000Z
 
-### Best albums 
-
-### May 2017 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [April's best music](https://ra.co/features/2948)
 Date: 2017-04-28T10:05:06.000Z
 
-### Best albums 
-
-### April 2017 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [March's best music](https://ra.co/features/2940)
 Date: 2017-03-31T09:00:11.000Z
 
-### Best albums 
-
-### March 2017 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [February's best music](https://ra.co/features/2925)
 Date: 2017-02-28T09:17:37.000Z
@@ -4977,57 +4636,27 @@ Date: 2017-02-28T09:17:37.000Z
 ## [January's best music](https://ra.co/features/2905)
 Date: 2017-01-31T08:07:26.000Z
 
-### Best albums 
-
-### January 2017 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [November's best music](https://ra.co/features/2711)
 Date: 2016-11-29T18:00:44.000Z
 
-### Best albums 
-
-### November 2016 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [October's best music](https://ra.co/features/2838)
 Date: 2016-10-29T22:21:34.000Z
 
-### Best albums 
-
-### October 2016 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [September's best music](https://ra.co/features/2822)
 Date: 2016-09-30T14:00:41.000Z
 
-### Best albums 
-
-### September 2016 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [August's best music](https://ra.co/features/2813)
 Date: 2016-08-31T17:00:47.000Z
 
-### Best albums 
-
-### August 2016 
-
-### Best singles 
-
-### Best mixes 
+*No structured items found.*
 
 ## [The Best Releases of 2025](https://ra.co/features/4350)
 Date: 2025-12-02T11:00:25.000Z
@@ -5226,95 +4855,7 @@ Date: 2024-12-03T11:05:14.000Z
 ## [The Best Tracks of 2023](https://ra.co/features/4289)
 Date: 2023-12-19T17:20:26.000Z
 
-### DJ SWISHA - CLUB MEGAMIXXX 
-> Self-released Where They At??? this Untitled -Andrew Ryce Bandcamp
-
-### Pangaea - Installation 
-> Hessle Audio asked classic -Tom Gledhill Bandcamp
-
-### Introspekt - Temptation (I Need U) 
-> T4T LUV NRG perfect -Andrew Ryce Bandcamp
-
-### Kwengface - Freedom 2 w/ Joy Orbison & Overmono 
-> Self-released Freedom -Carlos Hawthorn Youtube
-
-### Toumba - Janoob 
-> Nervous Horizon EP -Henry Ivry Bandcamp
-
-### Hudson Mohawke & Nikki Nair - Set The Roof 
-> Warp Records -Whitney Wei Bandcamp
-
-### BADSISTA - BAGUNCA MINHA B***** feat. JUJULIETE 
-> TraTraTrax Gueto Club -Kiana Mickles Bandcamp
-
-### Verraco - Escandalo 
-> Voam whipping up -Sophie McNulty Bandcamp
-
-### Bambii - One Touch 
-> Innovative Leisure Breaking Through herself Infinity Club -Whitney Wei Bandcamp
-
-### Fadi Mohem - Redox 
-> MOHEM -Carlos Hawthorn Bandcamp
-
-### JakoJako - Impetus 
-> Mute -Henry Ivry Bandcamp
-
-### OSSX - Don't Linger 
-> Self-released nostalgia RA -Kiana Mickles Bandcamp
-
-### Yushh - Same Same 
-> Wisdom Teeth Look Mum No Hands -Katie Thomas Bandcamp
-
-### Anz - Clearly Rushing 
-> Hessle Audio Plays "Clearly Rushing." Bandcamp
-
-### Nene H - Hold Ud, Skat! 
-> Live From Earth Klub too Trifecta -Kiana Mickles Bandcamp
-
-### Yu Su - I Want An Earth 
-> Pinchy & Friends she told Mixmag -Whitney Wei Bandcamp
-
-### Theo Kottis - Lighthouse 
-> Dekmantel -Andrew Ryce Bandcamp
-
-### IMOGEN - true-blue 
-> Steel City Dance Discs Albert Road -Katie Thomas Bandcamp
-
-### BASHKKA - Act Bad 
-> UMAY 2006 collaboration -Kiana Mickles Bandcamp
-
-### DJ Babatr & Arca - MK3TreF 
-> Self-released best track -Whitney Wei Bandcamp
-
-### Skrillex, Fred Again, Flowdan - Rumble 
-> OWSLA Boiler Room set -Emeka Okonkwo Spotify
-
-### Aya & BFTT - Up and At Them! 
-> YCO -Tom Gledhill Bandcamp
-
-### Perko - Prang feat. Huerco S 
-> Numbers -Conor McTernan Bandcamp
-
-### Tammo Hesselink - Don't Forget 
-> Nous'klaer Audio Beam -Andrew Ryce Bandcamp
-
-### Peggy Gou - (It Goes Like) Nanana 
-> XL recordings -Nyshka Chandran Spotify
-
-### Spriitzz - Where R U (Ibiza Mix) 
-> Radiant Records compilation -Sophie McNulty Bandcamp
-
-### Jossy Mitsu - Standard 
-> Astral Black -Nyshka Chandran Bandcamp
-
-### Freak Heat Waves - In A Moment Divine feat. Cindy Lee 
-> Mood Hut vocal house Temptation -Andrew Ryce Bandcamp
-
-### Minor Science - Workahol 
-> AD 93 Gremlins STRIPE N CO Absent Friends -Michael Lawson Bandcamp
-
-### Olof Dreijer - Rosa Rugosa 
-> Hessle Audio recalled -Bella Aquilina Bandcamp
+*No structured items found.*
 
 ## [The Best Albums of 2023](https://ra.co/features/4293)
 Date: 2023-12-14T14:00:39.000Z
@@ -5412,35 +4953,7 @@ Date: 2023-12-14T14:00:39.000Z
 ## [The Best Mixes of 2023](https://ra.co/features/4276)
 Date: 2023-12-12T17:30:28.000Z
 
-### Kia - Dekmantel Podcast 440 
-> RA Breaking Through -Kiana Mickles
-
-### Malibu - DJ Mag Recognise 
-> United In Flames DJ Mag -Andrew Ryce
-
-### Devoye - Juanita's Mix 086 
-> -Kiana Mickles
-
-### Sugar Free - DIM 276 
-> -Carlos Hawthorn
-
-### Danielle - live at Organik 
-> 30 recordings -Bella Aquilina
-
-### MJK - ITPS094 
-> hotly tipped -Fahad Akinsanya
-
-### Jade Seatle - BSU069 
-> -Henry Ivry
-
-### Lakuti - fabric podcast 018 (Pride 2023) 
-> -Andrew Ryce
-
-### DJ Heartstring - AVA x Boiler Room 
-> AVA Festival -Whitney Wei
-
-### Hamish & Toby - Houghton 2023 
-> future finally -Henry Ivry
+*No structured items found.*
 
 ## [The Best Mixes of 2022](https://ra.co/features/4064)
 Date: 2022-12-21T13:00:47.000Z
@@ -5877,67 +5390,12 @@ Date: 2021-12-15T21:27:34.000Z
 ## [2020's Best Albums](https://ra.co/features/3787)
 Date: 2020-12-23T12:00:59.000Z
 
-### Various HOA 10-12 Haus Of ALTR 
-> 2020's busiest electronic artist might have been Wyatt D. Stevens, AKA MoMa Ready. Beyond the dozen or so records he produced himself (including an LP with AceMo and two solo albums), there were the ten he released on his label, HAUS Of ALTR, three of which were towering achievements in themselves: HOA 10, 11 and 12, compilations of more than 25 tracks each, released in June, July and September, each of them presenting, in their own words, "the future of Black electronic music," the "Vangaurd in the war against white supremacy in electronic music," and a "march toward a future of unabashed Black electronic expression." These 72 tracks show dozens of vital artists from New York and beyond delivering their A-game or something close to it. Together, they form an embarrassment of riches we're still getting through half a year later. Listen: Bandcamp HOA010 / HOA011 / HOA12
-
-### Slikback /// + ///II Self-Released 
-> On September 1st, Slikback released ///, a surprise album that, at 30 tracks, doubled the size of the Nairobi artist's catalog in one fell swoop. Three days later, he released another 30-track bundle, ///||. He called them "a reflection of different vibes and emotions that make me... some rough, some gentle, some funny." The energy and artistry of these 60 tracks is stunning. Gqom, trap, noise, ambient, drill, footwork and techno all get tossed into Slikback's musical wood-chipper. Tempos run from around 70 BPM to over 170. Guest appearances range from Polish sound artist Morgiana Hz to the Ugandan MC Swordman Kitala. These albums should not be an easy listen—they clang, groan, shriek and bang, and sneak up on you when you least expect it. But instead of wearing you down, each new track lures you further in. You never know what kind of perfectly sideways groove is lurking around the corner. Listen: Bandcamp /// / Bandcamp /​/​/ II
-
-### KMRU Peel + opaquer Editions Mego + Dagoretti Records 
-> It's fitting that 2020 would produce a breakout star from the realms of ambient and field recording. Kenyan artist Joseph Kamaru, AKA KMRU, had been bubbling up already, but in 2020 he seemed to be everywhere, dropping tracks on his Bandcamp, appearing on the excellent Physically Sick 3, and releasing these two stunning LPs (along with a cassette, Jar) that show the incredible breadth of his sound. Appearing on esteemed avant-garde outlet Editions Mego, Peel is a silky abyss of droning soundscapes and spectral field recordings. Opaquer is its adventurous counterpart, with tracks like "Lost Ones" and "Canthenta" having more in common with bass-heavy experimental music than anything you'd typically call ambient. Together, they introduced many of us to an artist whose music is as powerful as it is subtle. Peel: Bandcamp / Apple Music / Spotify opaquer: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Ulla Tumbling Towards A Wall Experiences Ltd 
-> It doesn't lull you into a vegitative state, nor evoke a hotel spa lobby via rainforest field recordings. Instead, the side of ambient Ulla conjures on tumbling towards a wall carries you away with the subtlety of a daydream. The Kansas City artist has worn many aesthetic hats over the years, both on previous releases like Append and in projects like Pontiac Streator and the newly minted LOG. Her delicate compositional ear is clearer than ever on this release. Tracks like "stunned suddenly" and "new poem'' create space to think, without trying too hard to relax you. "feeling remembering," "leaves and wish" and "soak" are spotted with melodies and gentle textures—the album is ripe with soothing sounds, but never cluttered with them. You walk away from tumbling towards a wall feeling like the artist has told you something personal, a secret, and a precious one at that, even if you can't say exactly what it is. Listen: Bandcamp / Apple Music / Spotify
-
-### E.M.M.A. Indigo Dream Local Action 
-> In the seven years since her debut album, E.M.M.A. has gotten comfortable composing soundtracks and scores—her recent work has found her soundtracking campaigns for luxury fashion houses like Gucci and Chanel. Her affinity towards large-scale, cinematic projects is reflected in the brief 35 minutes that make up Indigo Dream. Swirling '80s synths and club sounds collide on this mesmerizing album, sending us to the zenith of yearnful nostalgia and back again. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Theo Parrish Wuddaji Sound Signature 
-> Even within Theo Parrish's catalogue, Wuddaji felt like a monumental entry. After innovating an often-imitated, never-replicated brand of deep house around the turn of the millennium, Wuddaji's eight tracks felt like a new milestone, or a jumping off point for some new, deliriously funky Black dance music. Dense, futuristic tunes like "Hennyweed Buckdance" are interspersed with floor-fillers like "Angry Purple Birds" and "This is For You." Wuddaji came with a map of Idlewild, a once-thriving vacation enclave in Northwestern Michigan that saw the likes of Aretha Franklin and Louis Armstrong performing for Black audiences escaping segregation in St. Louis and Detroit. Wuddaji, like so much of his music, draws from the personal and the historical, musical and otherwise. His deep understanding of the triumphs and injustices of the past—and their impact on the present—is raw material for groundbreaking art. Listen: Apple Music / Spotify / Soundcloud / Sound Signature
-
-### BOOF Rebirth Of Gerberdaisy Bubble Tease Communications 
-> Maurice Fulton has a lighthearted, often humorous approach to dance music, and it's safe to say that BOOF is his quirkiest project. These records come out once every five years or so, are always named after flowers and feature elementary artwork that looks like it was made in Microsoft Paint (a stretched flower and clashing text). But beneath that exterior is some of the best work the American multi-instrumentalist has ever put out. Rebirth Of Gerberdaisy is no exception. In fact, it's the best BOOF record yet, with the gusto of a talented live band trying to work out as many dance genres as they can: minimal techno, piano house, stomping disco, jazz fusion and deep, soulful grooves. Of course it's not a band you're hearing, just Fulton going crazy on the organ, guitar and keyboards, a one-of-a-kind talent that makes every genre sound like something he invented. Listen: Bandcamp / Apple Music / Spotify
-
-### Beatrice Dillon Workaround PAN 
-> The idea of the lone genius is appealing, but most great records are the labor of many minds. On Workaround, South London-born artist Beatrice Dillon embraces the collectivity of music-making, weaving together acoustic instrumentation from 12 different collaborators with her software production techniques to create 14 rhythmically complex toe-tappers, all fixed at 150 BPM. Batu brings the hi-hats on "Workaround Six," which are nonchalantly assembled into a beat, while the malevolent thwack of stand-up bass comes courtesy of Swedish jazz musician Petter Eldh. "Workaround Two" has flushed synths and vocals from Laurel Halo. Dillon's catalogue is an advent calendar of distinct treats, containing dub techno abstractions such as 2015's Face A, experimental cassettes like Index Tape For Performance and Two Changes (with Rupert Clervaux). Workaround, galvanized by a crush on UK dance music, is cultivated through the diligent practice of purposeful limitation. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Various Physically Sick 3 Allergy Season 
-> At the beginning of July, four months into the pandemic and six weeks into daily protests following the murder of George Floyd by police, Allergy Season and Discwoman dropped Physically Sick 3, a charity compilation that raised money for Equality For Flatbush, an organization fighting police brutality and gentrification that also helped residents of Brooklyn stay safe during COVID-19. Curated by Physical Therapy, Umfang and Frankie Decaiza Hutchinson, the music was exceptional—27 tracks of bold club sounds, plus the odd bit of noise and ambient, from a cast of artists that spanned continents and generations. The series' tradition of what it once called "electronic protest music" had never felt more necessary, and it was inspiring to see electronic artists rising to the occasion so readily. Beyond being some of the best music that came out this year, Physically Sick 3 was a how-to in DIY music activism. Listen: Bandcamp
-
-### Ana Roxanne Because Of A Flower Kranky 
-> Ana Roxanne's debut record, ~~~, had ambient fans in the palm of her hand, eagerly awaiting a follow-up. Her sound instantly had its own niche, drawing from New Age, devotional music and drone. Because Of A Flower is a more confident record than her first. It's conceptually provoking and brilliantly executed, full of vulnerability and understated beauty. Her enchanting vocals elevate Because Of A Flower above your typical ambient fare. It's a refined set of songs that seem to fly by and leave you in a different, more serene mood from where you started. Listen: Bandcamp / Apple Music / Spotify
-
-### Jonnine Blue Hills Boomkat Editions 
-> Many of the most cherished post-punk pop records—Young Marble Giants' Colossal Youth, Gareth Williams & Mary Currie's Flaming Tunes—are scrappy projects held together by spit and glue. Jonnine's Blue Hills fits that bill. Recorded at HTRK member Jonnine Standish's home in the Dandenong Ranges outside Melbourne, the nine-track album was a low-key affair, first released on cassette as part of Boomkat's series of quarantine records, Documenting Sound. But the spare songs, built on less-is-more bass lines and Standish's spectral vocals, punched above their weight with their effortless mix of the mundane and the sublime. "And hey, you're the best thing that I've had / because you want all the things that I have / And when the birds sing / they sing just for you / they live in blue hills," Standish sang, guiding the listener through the small psychodramas of a life lived in lockdown at the edge of the forest. Listen: Boomkat
-
-### Moodymann Taken Away KDJ 
-> Maybe you saw Moodymann in the flesh this year. Or caught his residency at Grand Theft Auto's new nightclub, The Music Locker. Most of us weren't so lucky. Instead, we sought consolation in Taken Away, a record so quintessentially Kenny Dixon Jr. it could probably form the basis of a biography. Detroit? Tick. Roller skating? Tick. Track after track of toasty gospel, house and hip-hop, peppered with sultry, sometimes madcap musings from the "most memorable voice in modern dance music"? Obviously. This LP had it all. Behold a masterclass in house music songwriting. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Yves Tumor Heaven To A Tortured Mind Warp Records 
-> The highlight of Yves Tumor's show-stopping fourth album is "Kerosene," a collaboration with the singer Diana Gordon that isn't so much a duet as a collision, rising to a churning climax where Gordon's vocals feel like a cross between Dolores O'Riordan and Alanis Morrisette. It's a moment of fireworks on an album that functions like a powder keg, a 21st-century rock opera starring Tumor, flanked by an arsenal of session musicians and armed with oodles of vaporwave-style loops. Here, amid horn sections that rise up like tidal waves and guitar leads that go up against clipped funk samples, Yves Tumor emerges as something like the rock star they've tried to be for years: sexy, alien, suave, and a master of melodies that get stuck in your head. Listen: Bandcamp / Apple Music / Spotify
-
-### Shinichi Atobe Yes DDS 
-> No one knows much about techno producer Shinichi Atobe. The Saitama-based artist has been releasing albums on DDS for five years now, with the only communication between him and the label typically consisting of no more than a CD with track titles in the mail. Building on the warm housey elements that were the foundation's of 2018's Heat, Yes is chock full of bright melodies, and of course delivered with his trademark hi-fi production standard. There are also a few surprises, too, like the sci-fi synths on "Lake 3," the funk-driven pulse of "Ocean 1" and the Drexciyan touch of "Loop 1." Listen: Apple Music / Spotify / Soundcloud
-
-### Actress Karma & Desire Ninja Tune 
-> There's always excitement around an Actress album, but for this year's Karma & Desire, Darren Cunningham and Ninja Tune went the extra mile. There was a prequel mixtape, which included a cryptic teaser tracklist for the album proper. There was a short film and a hotline you could call to hear a track down the phone. For a few days, rumours even spread of a second Actress mixtape, but it turned out to be the work of Dam Voyage. After all that, Karma & Desire had to be good. Cunningham delivered on the build-up and then some. What we got was a more open and fun version of Actress's early sound. The vocalists made the record more accessible. The instrumentals, too, were brighter and clearer. The album experience, its innovative preamble included, was a clear highlight of 2020. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Duval Timothy Help Carrying Colour 
-> Duval Timothy's fourth album has a documentary writer's touch. With his piano front-and-center, the LP narrates a journey of healing and navigating the perils of the music industry, primarily drawing on minimalist jazz hooks and immersive sampling. Timothy has a gift for making gems out of the mundane. On Help, spare vocals are distorted and looped into oddball rhythms, while field recordings bring the compositions to life. It's one of those special, emotive albums that says a lot by doing less. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Yaeji What We Drew 우리가 그려왔던 XL Recordings 
-> After creating dance floor bangers so universal they had festival crowds sing along with them, Yaeji took a backseat, preferring to collaborate and curate rather than release the long-awaited follow-up to her breakthrough EPs. What We Drew is a candid study of depression and ennui, how to break free from those things, and how to avoid beating yourself up when you do feel bad. The lead single is a tribute to the act of living: "I got hydrating down / I got listening down," she sings. On "Money Can't Buy," her guest Nappy Nina says, "Snuggly and sleepy / These naps come easy" after a verse of braggadoccio. What We Drew makes it clear that Yaeji connects with audiences around the world because she presents life as it is, celebrating the triumph of persevering and just getting the small things down, supported by love not only from others, but for yourself, too. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Jasmine Infiniti BXTCH SLÄP Self-released 
-> More than most techno producers, Jasmine Infiniti embodies the euphoric potential of the genre alongside its darker impulses. Take "Downhill," where muddy drums thump beneath bright, neon-streaked synths. The American artist's debut album straddles this divide so well because of Jasmine Infiniti's lived experience as a person on the margins, where nightlife can be a trap as much as an escape. But for every moment of foreboding, there's a glimpse of light, underpinned by an elastic, almost buoyant sense of melody and rhythm, informed by her days in the Bay Area's vogue scene and the taut slap of ballroom music. It's a techno record unlike any other in 2020—heavy and light, ecstatic and paranoid. Listen: Bandcamp / Apple Music / Spotify / Soundcloud
-
-### Headie One Edna Relentless Records 
-> The authorities coming down hard on Black music is nothing new, but the story around UK drill felt different. This time, even hugely influential platforms like YouTube shared in the vilification, removing videos at the request of the police. That was in 2018, which is incredible when you consider how far the genre has come since then. No one better embodies this turnaround than poster boy Headie One, whose excellent debut album, Edna, felt like a watershed moment for UK drill. Here was a #1 record laying bare the glory and despair of gang life in London, told through the eyes of not only its protagonist but a whole cast of rap stars, from local legends (M Huncho, Ivorian Doll) to global icons (Drake). Once again, Black street music, through a combination of grit and pure talent, had silenced its critics and conquered the mainstream. Listen: Apple Music / Spotify / Soundcloud
+*No structured items found.*
 
 ## [2020's Best Mixes](https://ra.co/features/3789)
 Date: 2020-12-21T12:00:53.000Z
 
-### Mix of the year 
+*No structured items found.*
 
 ## [2020's Best Tracks ](https://ra.co/features/3788)
 Date: 2020-12-21T12:00:52.000Z
@@ -5958,62 +5416,17 @@ Date: 2019-12-26T06:09:37.000Z
 ## [2019's Best Mixes](https://ra.co/features/3541)
 Date: 2019-12-12T17:00:08.000Z
 
-### Kelela & Asmara 
-> Kelela & Asmara Aquaphoria Originally aired as part of Warp's NTS takeover, Kelela and Asmara's Warp mixtape feels like a jam session between friends. Asmara sculpts an undulating backing track out of music from Aphex Twin, Suzanne Kraft & Jonny Nash and Kareem Lotfy—artists that have helped define the recent era of ambient music. Kelela's airy, improvised vocals act are the perfect counterpart to Jaco Pastorius' genius bass solo and Iury Lech's emotional washes. They bring this floating, beatless music to an unforgettable climax. Lena Willikens & Vladimir Ivkovic Live: Nuits Sonores 2019 Headlining festival sets don't always work outside the original setting—as with well-timed jokes, you kinda had to be there. But leave it to Lena Willikens and Vladimir Ivkovic to make their three-hour Nuits Sonores odyssey suit nearly any context. It's meditative, weird and, lest we forget the main room dance floor it soundtracked, banging. Filled with the pair's characteristic slower selections, this mix feels like swimming inside a crystal ball. CCL Unsound Podcast 56 CCL called this mix a "regurgitated memory" of their Honcho Campout set, reflecting on the "more twisted hours… before the light had come up." That predawn unpredictability is what's so exciting here. One highlight is their adept pulling back with Codek's "Closer" before diving into a Metalheadz Wax Doctor rush. With these unreal transitions, and touches like the experimental Polish music that bookends the mix (a nod to Unsound) CCL shows the careful craft that sets them apart. Truly Madly GHOSTCAST 006 Ghostcast, a mix series from Berlin's favourite record store on wheels, has only released a few recordings since launching two years ago, but each is a window into a world of deep-digging DJs with exquisite house and techno collections. Truly Madly is one of them. An underground favourite who's steadily gaining recognition outside the world of trainspotters and Discogs geeks, the Londoner's set traverses classic techno, electro and house, cloaked with the same spacey charm that colours his club sets. Boards Of Canada Societas x Tape (NTS x Warp 30) Boards Of Canada are two of the most reclusive artists in electronic music, which means we don't know much about what they listen to during long stays in the Scottish countryside. Their Societas x Tape mix, a two-hour set broadcast on NTS as part of Warp's 30th anniversary, gives us an idea. Obscure electronics by Filmmaker, '80s post-punk by Killing Joke and synth-pop from Severed Heads tell us a little bit more about these pioneers. Dee Diggs FACT Mix 710 New York's Dee Diggs is on a quest to remind everyone that dance music is black music. Her FACT mix is her fiery mission statement, cutting through the history of black dance music, from Paris Is Burning and vintage acts like DJ Deeon and Karizma to NYC's new guard, including upstarts like Devoye and AceMo. This mix is classic, soulful and banging in all the right places, securing Diggs' own place in the canon she's charting. Eris Drew Raving Disco Breaks Vol. 1 On this year's funkiest mixtape, Eris Drew made some of dance music's most classic sounds her own. Raving Disco Breaks is composed of dance classics chopped into breaks on-the-fly by the American DJ, showcasing not only her impressive technical skills but also the emotional, spiritual and often nostalgic flair that makes her sets so electrifying. It's old-school technique with a new-school vibe. Francesco Del Garda Robert Johnson Archive 0002 Francesco Del Garda played this set at Robert Johnson on the banks of the Rhine a few days after Christmas last year. He couldn't have asked for a better setting: sun rising, perfect soundsystem, six-hour time slot, festive crowd. This recording, an edition of the Frankfurt club's new mix series, gives us only an hour of it, but it shows Del Garda on fire, indulging the uplifting sound that distinguishes him from his contemporaries. Batu Truancy Volume 240 Batu describes his Truancy mix as the closing set for a "festival in 2030 called Bristol-Bass." Given his Timedance label and his own inventive productions, he's in a good position to imagine the future of UK dance music. The mix’s backbone wiggles and booms with modern bass music, while making adventurous jumps from Latin and Afro-Caribbean rhythms to ambient techno and experimental club. Erika IT.podcast.s08e01 Erika's Interdimensional Transmissions podcast from March really lives up to the Detroit label's name: it sounds like you're hearing an actual transmission from another dimension. IT does down-the-rabbithole techno better than anyone, and this recording of Erika at an LA showcase for sister label Eye Teeth shows the sound at its cosmic, funky, head-spinning best. DJ Persuasion Dedicated To The Dedicated 94-95 Ask any junglist worth their salt: 1994 and '95 were the golden years. Disagree? Well, you might feel differently after listening to Dedicated To The Dedicated 94-95, the latest hour-long mix by '90s dance music fanatic DJ Persuasion, AKA Semtek. Every tune, most of them near-impossible to track down, writhes with rhythm and soul. The warm basslines and time-stretched vocals spark tingles of euphoria. When people say the '90s were better, this is the kind of thing they're thinking of. Sherelle LDN: Bass & Percs Special Earlier this year, Sherelle's debut Boiler Room session—a whirlwind of footwork, jungle and grime—went viral. While it's easy for some high BPM DJs to tire out their audience, her set maintains an addictive high energy throughout, with explosive, playful transitions that sparked the dance music equivalent of a mosh pit. Wait for the gutsy rewind at 23:40 that shot her to instant (and deserved) fame. Leif Freerotation 2019 Leif is part of a small group of DJs whose yearly sets at Freerotation festival in Wales always feel like a big deal. 2019 was no exception. In this recording, Leif redefines the peak-time set, starting slow and spindly before moving gracefully through many shades of cosy, rhythmic club music. There are tunes by Equiknoxx and Domu, Efdemin and Aphex Twin, all stitched together with extraordinary skill. As one SoundCloud commenter put it: "are you even human." Dr. Rubinstein Phonica Mix Series 56 Dr. Rubinstein is like an acid historian, wading through decades of dance music history to find the best 303 lines ever put to wax. Yet she still finds time in her Phonica mix to highlight several up-and-coming talents (Jack Roland, Gian) alongside more familiar names (DMX Krew, Adapta). Sometimes dark, sometimes bright, Phonica Mix Series 56 was a deeply psychedelic trip, weaving excellent electro and techno between forgotten acid bombs. As always with Rubinstein, the mixing was world-class, each transition bringing us further into her unique sound world. Leon Vynehall DJ-Kicks Last year, Leon Vynehall released Nothing Is Still, showing the world that his production chops extended way beyond the club. In 2019 he did something similar, but with DJing. His proof this time is a spellbinding DJ-Kicks mix, which blends genres, eras and moods together with sublime flow and dexterity. Dancehall, techno, pop, jungle, soul, a solo piano piece—what could've been a hot mess ends up as one of the classiest mix CDs in recent memory. re:ni Dekmantel Podcast 253 re:ni's Dekmantel podcast does everything right. The tracklist left the sleuths at mixesdb mostly stumped. The mixing is inspired, moving swiftly through tempos and styles with quick sleights of hand and extended blends. More than anything, though, its re:ni's ineffable sense of groove—slinky, fluid, always in flux—that makes this one really pop off. Turtle Bugg HNYPOT 330: African Art of Acid (Triple A Baybee) Mixx Turtle Bugg's Honey Soundsystem mix makes a point so simple it often goes unsaid: black people invented acid house. And yet, as he puts it, "There was no Second Summer Of Love in Amerikkka, no Ibiza for Negroes to spend their holiday, no beginnings of a multi-million dollar industry that could change the lives of Lady Liberty's bastard children." The voices of Dave Chappelle, Malcolm X and Derrick May ring out over interlocking acid lines. The message is clear: black ingenuity thrives, no matter who is paying attention. Ben UFO Hessle Audio - 9th September 2019 What makes this Hessle Audio show, one of many hosted by Ben UFO in 2019, so special? Well, it just is. On that early autumn night, armed with a stack of fresh wax, the UK DJ was on particularly impressive form, treating regulars and first-timer listeners to a beautifully woven tapestry of ambient, Afro techno, jungle and Joe. When it aired, it wasn't just nerds and ravers listening, either—Four Tet, Hunee, John Talabot and other dance music dons had all tuned in for their weekly dose of musical inspiration. Via App Crack Mix 307 Via App taps into the elemental energy of Brooklyn's techno underground on this mix for Crack, a set as volatile as any of their recent productions. This bumpy ride through jarring turns and interruptions, with its snarling, punkish spirit, hit harder than most other mixes we heard this year. <a href="/reviews/23502">Powder In Space by Powder</a> Powder Powder In Space You play Powder In Space once. You think, "This is nice." You leave it for a while, then play it a second and third time. You notice things like the Roy Brooks vocal, or Daphne's bubbling vibraphone melody, that you didn't catch the first time. You also realize you've fallen in love with it. This is how Powder's mix gets under your skin: her unobtrusive approach, drawn from offbeat house with gorgeous textures, waits for you to come around to it. Shannen SP DISCWOMAN 80 Alongside Kode9, Shannen SP runs Hyperdub's Ø events at London's Corsica Studios, a wonderful monthly midweek showcase of experimental music and art. She's quickly become a DJ to watch, and this mix for Discwoman showcases her knack for linking together sharp, angular beats with loose percussive rhythms—a style she sums up as "witchy black energy." Ciel FACT Mix 724 Cindy Li's FACT mix has a specific concept: "fast & light," inspired by hummingbirds. It also captures what makes her DJing so dynamic. The Toronto artist makes breakbeat, electro and techno float like feathers on the breeze, moving through quick-footed drum patterns and fluttering melodies with finesse. Her technique changes the feel of the music itself, which is among the highest compliments you can pay a DJ. Physical Therapy Live: Honcho Campout 2019 The Way In may have had the freakiest sounds at this year's Honcho Campout. Hours before CCL brought the dance floor to tears with Beat Happening, Physical Therapy unfurled this masterclass in trippy eclecticism. Cuts of perfectly dreamy drum & bass, a slo-mo version of Cece Peniston's "Finally" layered over Stenny’s "Stress Test," Andrew Weatherall's remix of St Etienne, D'Angelo's "Devil's Pie"—the highlights in this one are simply too many to name. From a punter's perspective, hearing a DJ with such unique style going for it like this is basically as good as it gets. Josey Rebelle Essential Mix "The thread that runs through the music I play, and my whole life, comes from my parent's generation," Josey Rebelle told us in 2017's Real Scenes: London film. Her parents are part of the Windrush generation, which arrived in the UK from the Caribbean in the 1950s and went on to make an inestimable impact on British life and culture. Rebelle's heritage pours out the speakers every time she's behind the decks. She's a quintessential London DJ: informed by the city's record shop and soundsystem culture, she's comfortable weaving together soul, techno, house, disco, R&B and jungle. Her first Essential Mix was dark and funky, with deep US music from Jamal Moss and Aybee featuring alongside London favourites Steven Julien and Cooly G. Ariel Zetina Truancy Volume 249 "Power to them sexy transsexuals out there, transforming the world," a woman intones in the opening moments of Ariel Zetina’s Truancy mix. It's one of many vivid vocal samples that contribute to the smartbar resident's sense of narrative. Beneath them, trippy acid house and soulful techno—much of it produced by other queer and trans artists—paint different moods. Sometimes it's raw and sexy, other times meditative and strange, but always charged with attitude and passion. Jackie House HNYPOT 300: Half A Bar Will Do It Jackie House's "Half A Bar Will Do It" mix came out 11 months ago, in that post-New Year's, deep-winter stretch of time when dance music in the Northern Hemisphere briefly goes into hibernation. It matches that mood perfectly, easing, over the course of three hours, through soothing, low-energy grooves of all kinds, from Kompakt deep cuts to ambient jungle pitched way, way down. Jackie's photo—swaddled in blankets, bathed in warm lamplight—shows the best way to take this one in. Nosedrip Live: Dekmantel Festival 2019 It's one thing to play a bunch of psychedelic dub and obscure post-punk on the radio. It's something else entirely to mix it at a festival and hold the dance floor. That's what Nosedrip did on the Red Light Radio stage at Dekmantel this summer. Luckily, we now have the recording to pogo to. In the STROOM head's hands, a rare Belgian cut like Siglo XX's "Individuality" becomes a statement of purpose: "I don't wanna be like the others / I am an originality / In search for individuality." Sybil Jason Blowing Up The Workshop 103 Sybil Jason's Blowing Up The Workshop mix is only 40 minutes long and it ends abruptly after a particularly satisfying transition. Showcasing her range, this quick, intense and blindsiding mix ranges from weirdo downtempo to synth-pop to techno, as Jason jumps between eras like a skilled time traveler. She had a bigger year than ever in 2019, and it's DJing skills like this that got her there. Spekki Webu Nous'klaer Radio #20 Though trance has been bubbling up again in dance music for a few years now, in 2019 it took centre-stage. While some turned to Eurodance for inspiration, Spekki Webu sought out the throb of the genre's earlier psychedelic forms. This precise set for Nous'klaer Audio is a masterclass in otherworldly DJing, journeying into hallucinogenic, hypnagogic soundscapes before it melts into the ether.
-
-### Eris Drew 
-> Eris Drew Raving Disco Breaks Vol. 1 On this year's funkiest mixtape, Eris Drew made some of dance music's most classic sounds her own. Raving Disco Breaks is composed of dance classics chopped into breaks on-the-fly by the American DJ, showcasing not only her impressive technical skills but also the emotional, spiritual and often nostalgic flair that makes her sets so electrifying. It's old-school technique with a new-school vibe.
-
-### Leon Vynehall 
-> Leon Vynehall DJ-Kicks Last year, Leon Vynehall released Nothing Is Still, showing the world that his production chops extended way beyond the club. In 2019 he did something similar, but with DJing. His proof this time is a spellbinding DJ-Kicks mix, which blends genres, eras and moods together with sublime flow and dexterity. Dancehall, techno, pop, jungle, soul, a solo piano piece—what could've been a hot mess ends up as one of the classiest mix CDs in recent memory.
-
-### Physical Therapy 
-> Physical Therapy Live: Honcho Campout 2019 The Way In may have had the freakiest sounds at this year's Honcho Campout. Hours before CCL brought the dance floor to tears with Beat Happening, Physical Therapy unfurled this masterclass in trippy eclecticism. Cuts of perfectly dreamy drum & bass, a slo-mo version of Cece Peniston's "Finally" layered over Stenny’s "Stress Test," Andrew Weatherall's remix of St Etienne, D'Angelo's "Devil's Pie"—the highlights in this one are simply too many to name. From a punter's perspective, hearing a DJ with such unique style going for it like this is basically as good as it gets.
-
-### Mix of the year 
+*No structured items found.*
 
 ## [2019's Best Tracks](https://ra.co/features/3542)
 Date: 2019-12-11T17:00:52.000Z
 
-### Warm-Up 
-> Every DJ needs smooth, subtle tunes to ease dancers into a party. Here are five of this year's best.
-
-### Music At The Cutting Edge 
-> Throughout the year, producers twisted electronic music into wonderful new shapes. From deconstructed club to brain-scrambling jungle, experimental electronic music felt more exciting than ever.
-
-### Garage & 2-Step 
-> Thanks to a new wave of producers putting a fresh spin on familiar sounds, these classic styles had a purple patch in 2019.
-
-### The Sound Of Summer Festivals 
-> The best of the many mega-hits we danced to at festivals all around the world.
-
-### Peak-Time Techno 
-> As superstar DJs took techno to new heights, these are the tracks that lit up basements and warehouse raves.
-
-### 4AM Rollers 
-> The tunes DJs reach for when the dance floor is packed and the groove is rolling.
-
-### Beat Science 
-> Producers working with unconventional rhythms were responsible for some of the most dazzling tunes of the year.
-
-### 150+ BPM 
-> When producers increased the tempo, the results were often thrilling.
-
-### Afterhours 
-> Psychedelic tunes best heard after peak-time has passed, perfect for tired legs and addled minds.
-
-### Deep Listening 
-> These tracks inspired deep introspection, evoking feelings that stayed with listeners long after they finished.
-
-### Vocal Bangers 
-> Sung, sampled or spoken, these well-crafted vocal tunes gave us some of the year's most memorable moments.
-
-### Track of the year 
+*No structured items found.*
 
 ## [2019's Best Albums](https://ra.co/features/3540)
 Date: 2019-12-10T16:50:47.000Z
 
-### Album of the year 
+*No structured items found.*
 
 ## [RA's best films of 2018](https://ra.co/features/3373)
 Date: 2018-12-28T12:00:42.000Z

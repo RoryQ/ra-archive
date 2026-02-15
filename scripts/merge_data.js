@@ -9,6 +9,18 @@ const getYear = (dateStr) => {
     catch (e) { return "Unknown"; }
 };
 
+const formatPlayerLinks = (links) => {
+    if (!links) return [];
+    return links.map(l => {
+        const name = l.audioService.name;
+        const id = l.sourceId;
+        if (name.includes('Bandcamp')) return { p: 'Bandcamp', u: name.includes('Album') ? `https://bandcamp.com/EmbeddedPlayer/album=${id}` : `https://bandcamp.com/EmbeddedPlayer/track=${id}` };
+        if (name.includes('Spotify')) return { p: 'Spotify', u: `https://open.spotify.com/embed/album/${id}` };
+        if (name.includes('SoundCloud')) return { p: 'SoundCloud', u: `https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/${id}` };
+        return null;
+    }).filter(Boolean);
+};
+
 bestOfData.forEach(article => {
     const year = getYear(article.date);
     article.items.forEach(item => {
@@ -21,7 +33,8 @@ bestOfData.forEach(article => {
             y: year,
             l: item.label || "",
             r: false,
-            ty: 'list'
+            ty: item.type || 'list',
+            links: item.links || []
         });
     });
 });
@@ -32,9 +45,10 @@ reviewsData.forEach(review => {
         d: review.content || review.blurb || "",
         u: `https://ra.co${review.contentUrl}`,
         y: getYear(review.date),
-        l: "",
+        l: review.label || "",
         r: !!review.recommended,
-        ty: 'review'
+        ty: review.type || 'review',
+        links: formatPlayerLinks(review.playerLinks)
     });
 });
 

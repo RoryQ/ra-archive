@@ -25,15 +25,45 @@ async function scrapeFeature(url, title, date) {
 
         const parseContent = async (html, source) => {
             const c$ = cheerio.load(html);
+            
+            const extractLinks = (el) => {
+                const links = [];
+                c$(el).find('a').each((i, a) => {
+                    const href = c$(a).attr('href');
+                    const text = c$(a).text().toLowerCase();
+                    if (!href) return;
+                    if (href.includes('bandcamp.com')) links.push({ p: 'Bandcamp', u: href });
+                    else if (href.includes('spotify.com')) links.push({ p: 'Spotify', u: href });
+                    else if (href.includes('apple.com')) links.push({ p: 'Apple Music', u: href });
+                    else if (href.includes('soundcloud.com')) links.push({ p: 'SoundCloud', u: href });
+                    else if (href.includes('youtube.com')) links.push({ p: 'YouTube', u: href });
+                });
+                // Also check iframes for players
+                c$(el).find('iframe').each((i, ifr) => {
+                    const src = c$(ifr).attr('src');
+                    if (!src) return;
+                    if (src.includes('bandcamp.com')) links.push({ p: 'Bandcamp', u: src });
+                    else if (src.includes('spotify.com')) links.push({ p: 'Spotify', u: src });
+                    else if (src.includes('soundcloud.com')) links.push({ p: 'SoundCloud', u: src });
+                });
+                return links;
+            };
+
             // EOY
             c$('.eoy__section').each((i, el) => {
                 const description = c$(el).find('.eoy__text').first().text().trim();
+                const typeText = c$(el).find('.eoy__genre').text().toLowerCase();
+                let type = 'Track';
+                if (typeText.includes('album')) type = 'Album';
+                else if (typeText.includes('mix')) type = 'Mix';
+
                 addItem({ 
-                    type: 'EOY Item', 
+                    type: type, 
                     artist: c$(el).find('.eoy__artist').first().text().trim(), 
                     title: c$(el).find('.eoy__track').first().text().trim(), 
                     label: c$(el).find('.eoy__label').first().text().trim(), 
                     description, 
+                    links: extractLinks(el),
                     source 
                 });
             });
@@ -43,8 +73,16 @@ async function scrapeFeature(url, title, date) {
                 const title = c$(el).find('[class*="entry-title"]').first().text().trim();
                 const label = c$(el).find('[class*="label"]').first().text().trim();
                 const description = c$(el).find('.bm__entry-text').first().text().trim();
+                
+                // Determine type from context or parent section title
+                let type = 'Release';
+                const sectionTitle = c$(el).closest('.bm__month').find('.bm__section-title').text().toLowerCase();
+                if (sectionTitle.includes('album')) type = 'Album';
+                else if (sectionTitle.includes('ep') || sectionTitle.includes('single')) type = 'Single/EP';
+                else if (sectionTitle.includes('mix')) type = 'Mix';
+
                 if (artist || title) {
-                    addItem({ type: 'Best Music Item', artist, title, label, description, source });
+                    addItem({ type, artist, title, label, description, links: extractLinks(el), source });
                 }
             });
             // Poll / Generic List
@@ -54,19 +92,18 @@ async function scrapeFeature(url, title, date) {
                 const title = (h2.text() || h3.text()).trim();
                 
                 if (title) {
-                    // Try to find description in a sibling or specific div instead of just taking all text
                     let description = c$(el).find('div').not('.f36').first().text().trim();
                     if (!description) {
                         description = c$(el).text().replace(h2.text(), '').replace(h3.text(), '').replace(c$(el).find('h4').text(), '').trim();
                     }
-                    addItem({ type: 'List Item', text: title, label: c$(el).find('h4').first().text().trim(), description, source });
+                    addItem({ type: 'List Item', text: title, label: c$(el).find('h4').first().text().trim(), description, links: extractLinks(el), source });
                 }
             });
         };
 
         await parseContent(feature.content, url);
 
-        // Handle Fallback for articles that are just headings and paragraphs
+        // Handle Fallback
         if (items.length < 5) {
             const c$ = cheerio.load(feature.content);
             c$('h2, h3').each((i, el) => {
@@ -78,7 +115,7 @@ async function scrapeFeature(url, title, date) {
                         descParts.push(curr.text().trim());
                         curr = curr.next();
                     }
-                    addItem({ type: 'Article Section', text: title, description: descParts.join('\n\n'), source: url });
+                    addItem({ type: 'Article Section', text: title, description: descParts.join('\n\n'), links: extractLinks(el), source: url });
                 }
             });
         }
@@ -142,7 +179,15 @@ async function updateReviews() {
 
     const query = `query GetReviews($page: Int, $filters: [FilterInput]) {
         listing(indices: [REVIEW], page: $page, pageSize: 20, filters: $filters, sortField: REVIEWDATE, sortOrder: DESCENDING) {
-            data { ... on Review { id title date contentUrl blurb recommended content } }
+            data { 
+                ... on Review { 
+                    id title date contentUrl blurb recommended content type
+                    playerLinks {
+                        sourceId
+                        audioService { name }
+                    }
+                } 
+            }
         }
     }`;
 
