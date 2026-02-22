@@ -36,6 +36,8 @@ const formatPlayerLinks = (links) => {
         if (name.includes('Bandcamp')) return [0, name.includes('Album') ? `https://bandcamp.com/EmbeddedPlayer/album=${id}` : `https://bandcamp.com/EmbeddedPlayer/track=${id}`];
         if (name.includes('Spotify')) return [1, `https://open.spotify.com/embed/album/${id}`];
         if (name.includes('SoundCloud')) return [3, `https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/${id}`];
+        if (name.includes('Apple Music')) return [2, `https://embed.music.apple.com/us/album/${id}`];
+        if (name.includes('YouTube')) return [4, `https://www.youtube.com/embed/${id}`];
         return null;
     }).filter(Boolean);
 };

@@ -169,6 +169,8 @@
             margin-top: 15px;
             width: 100%;
             display: flex;
+            flex-direction: column;
+            gap: 10px;
             align-items: center;
             justify-content: center;
         }
@@ -184,6 +186,54 @@
             font-weight: bold;
             text-transform: uppercase;
         }
+
+        #floating-counter {
+            position: fixed;
+            bottom: 40px;
+            right: 40px;
+            background: #000;
+            color: #fff;
+            padding: 12px 20px;
+            font-family: monospace;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            z-index: 1001;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            border-radius: 4px;
+            min-width: 140px;
+            justify-content: space-between;
+        }
+        #floating-counter.hidden { display: none; }
+        .counter-content {
+            display: flex;
+            align-items: baseline;
+            gap: 5px;
+            font-size: 1.4rem;
+        }
+        #total-count {
+            font-size: 0.9rem;
+            color: #888;
+        }
+        .progress-bar-bg {
+            width: 4px;
+            height: 40px;
+            background: #333;
+            border-radius: 2px;
+            position: relative;
+            overflow: hidden;
+        }
+        #progress-bar-fill {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background: var(--ra-red);
+            height: 0%;
+            transition: height 0.1s ease-out;
+        }
+
         .hidden { display: none; }
 
         @media (max-width: 600px) {
@@ -217,6 +267,17 @@
     <main class="container">
         <div id="results-list"></div>
     </main>
+
+    <div id="floating-counter" class="hidden">
+        <div class="counter-content">
+            <span id="current-count">0</span>
+            <span class="divider">/</span>
+            <span id="total-count">0</span>
+        </div>
+        <div class="progress-bar-bg">
+            <div id="progress-bar-fill"></div>
+        </div>
+    </div>
 
     <script src="app.js"></script>
 </body>
